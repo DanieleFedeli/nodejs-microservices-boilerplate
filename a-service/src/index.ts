@@ -1,3 +1,2 @@
-import path from "path";
-
-console.log("Working");
+import "~/db/connection";
+import "~/server/startServer";
